@@ -14,3 +14,8 @@ This is a Solo Project to get into Chingu Cohort
 ---
 
 Just NOTE(iced):  I can import code from another repository.  Looking forward.
+
+## August 1, 2023
+Working individual Sections within References.  Example:
+- Navigation
+- Words Laid out on top of Background image
